@@ -1,3 +1,3 @@
 # axolotl
 
-**R&D** in machine learning.
+**R&D** in machine learning for good.
